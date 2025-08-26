@@ -1,7 +1,6 @@
 # AudioCryptor-Advanced-Audio-Steganography-App
 
-A modern desktop GUI application for secure **audio steganography** (hiding and extracting secret messages in audio files) with **AES-256 encryption** and a sleek dark-themed interface.
-
+AudioCryptor is a desktop application developed to provide a secure and user-friendly environment for hiding and extracting confidential information inside audio files. The system is built on the principle of Least Significant Bit (LSB) steganography , where the secret data is embedded into the least significant bits of digital audio samples. This ensures that the hidden information remains imperceptible to human hearing while maintaining the original audio quality.
 ---
 
 ## ✨ Features
